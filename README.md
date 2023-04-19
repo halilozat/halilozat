@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Halil. :blush:
 
-## Fullstack Developer | (Student)
+## Software Developer (Frontend)
 
 <font color="pink">Some Coffee :coffee: lots of `< code />` </font>
 
